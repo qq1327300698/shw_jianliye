@@ -1,0 +1,204 @@
+a {
+  color: #222;
+}
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.suojin {
+  text-indent: 28px;
+}
+.biaotiTY {
+  margin: 0;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.biaotiTY span {
+  border-radius: 5px;
+  cursor: pointer;
+  color: #eee;
+  padding: 5px 10px;
+  background-color: rgba(50, 100, 150, 0.5);
+}
+.biaotiTY span:hover {
+  color: #fff;
+  background: none;
+  text-shadow: 0 0 10px #0af;
+  background-color: rgba(0, 100, 150, 0.2);
+  box-shadow: 0px 0px 8px #0af;
+}
+.beijingTY {
+  margin-top: 50px;
+  box-sizing: border-box;
+  padding: 25px 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.5);
+  position: relative;
+  text-align: center;
+}
+.jbxx .row .left_ban .row div div {
+  margin-bottom: 10px;
+  box-shadow: 0px 0px 3px #0af;
+}
+.jbxx .row .left_ban .row div .biaoqxx {
+  height: 25px;
+  line-height: 25px;
+  color: #eee;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: rgba(0, 100, 150, 0.5);
+}
+.jbxx .row .left_ban .row div .biaoqhd {
+  height: 25px;
+  line-height: 25px;
+  background-color: rgba(200, 200, 200, 0.5);
+  padding: 0 10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+}
+.jbxx .row .left_ban .row div .biaoqhd:hover {
+  color: #fff;
+  box-shadow: 0px 0px 30px 5px #0af;
+}
+.jbxx .row .right_ban img {
+  box-shadow: 0px 0px 3px #0af;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin: auto;
+}
+.jbxx .row .right_ban img:hover {
+  box-shadow: 0px 0px 30px #0af;
+  cursor: pointer;
+}
+.jlwb .row .col-sm-6 {
+  text-align: center;
+  margin: auto;
+}
+.jlwb .row .col-sm-6 .row {
+  text-align: center;
+  margin: auto;
+}
+.jlwb .row .col-sm-6 .row div {
+  margin: auto;
+  float: left;
+  margin-bottom: 10px;
+  box-shadow: 0px 0px 3px #0af;
+}
+.jlwb .row .col-sm-6 .row .wordbt {
+  height: 25px;
+  line-height: 25px;
+  color: #eee;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: rgba(0, 100, 150, 0.5);
+}
+.jlwb .row .col-sm-6 .row .wordlj {
+  height: 25px;
+  line-height: 25px;
+  background-color: rgba(200, 200, 200, 0.5);
+  padding: 0 10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+}
+.jlwb .row .col-sm-6 .row .wordlj:hover {
+  color: #fff;
+  box-shadow: 0px 0px 30px 5px #0af;
+}
+.jlwb .row .col-sm-6 .row .wordlj:hover a {
+  color: #fff;
+}
+.xmjl div {
+  margin: 0;
+  margin-bottom: 10px;
+}
+.xmjl div div {
+  margin: auto;
+  float: left;
+  box-shadow: 0px 0px 3px #0af;
+}
+.xmjl div .xmbq {
+  height: 25px;
+  line-height: 25px;
+  color: #eee;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: rgba(0, 100, 150, 0.5);
+}
+.xmjl div .xmxx {
+  line-height: 25px;
+  background-color: rgba(200, 200, 200, 0.5);
+  padding: 0 10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+}
+.xmjl div .xmxx a {
+  display: block;
+}
+.xmjl div .xmxx:hover {
+  color: #fff;
+  box-shadow: 0px 0px 30px 5px #0af;
+}
+.zwjs .row {
+  margin: 0;
+}
+.zwjs .row .jsbq {
+  height: 25px;
+  line-height: 25px;
+  color: #eee;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: rgba(0, 100, 150, 0.5);
+}
+.zwjs .row .jsxx {
+  padding: 0;
+}
+.zwjs .row .jsxx .progress {
+  height: 25px;
+  background-color: rgba(200, 200, 200, 0.5);
+}
+.zwjs .row .jsxx .progress div {
+  color: #eee;
+  font-size: 14px;
+  line-height: 25px;
+  text-align: center;
+}
+.zwjs .row:hover .jsbq {
+  color: #fff;
+  box-shadow: 0px 0px 30px 5px #0af;
+}
+.zwjs .row:hover .jsxx div {
+  color: #fff;
+  box-shadow: 0px 0px 30px 5px #fff;
+}
+.grjs .row {
+  margin: 0;
+  margin-bottom: 10px;
+}
+.grjs .row div {
+  box-shadow: 0px 0px 3px #0af;
+}
+.grjs .row .grbq {
+  height: 25px;
+  line-height: 25px;
+  color: #eee;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: rgba(0, 100, 150, 0.5);
+}
+.grjs .row .grxx {
+  background-color: rgba(200, 200, 200, 0.5);
+  line-height: 25px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+}
+.grjs .row .grxx:hover {
+  color: #fff;
+  box-shadow: 0px 0px 30px 5px #0af;
+}
+footer {
+  height: 25px;
+}
